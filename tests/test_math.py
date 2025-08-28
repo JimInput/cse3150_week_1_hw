@@ -10,3 +10,4 @@ def test_add_and_multiply_and_square():
     assert "a * b = 12" in output[1]
     assert "square(a) = 9" in output[2]
 
+# test
